@@ -3,19 +3,17 @@
 This repo contains the official **PyTorch** code for YOLOv8-Steel-Detection .
 #Project Structure
 Enhanced-YOLOv8-for-Detecting-Multiple-Defects-on-Bridge-Surfaces/
-├── README.md              # Project documentation
+├── README.md                  # Project documentation
 
-├── environment.yml        # Conda environment dependencies
+├── ultralytics/data/          # Where the data set is stored
 
-├── ultralytics/data/      # Directory for raw and processed datasets
-
-├── ultralytics/cfg/models # Model architecture 
+├── ultralytics/cfg/models     # Model architecture 
 
 Please refer to https://docs.ultralytics.com/zh/models/yolov8/ for the detailed project structure
 
 # Installation
 
-git clone https://github.com/IamSunday/Enhanced-YOLOv8-for-Detecting-Multiple-Defects-on-Bridge-Surfaces.git cd Enhanced-YOLOv8-for-Detecting-Multiple-Defects-on-Bridge-Surfaces
+[git clone https://github.com/IamSunday/Enhanced-YOLOv8-for-Detecting-Multiple-Defects-on-Bridge-Surfaces.git](https://github.com/IamSunday/Enhanced-YOLOv8-for-Detecting-Multiple-Defects-on-Bridge-Surfaces.git)
 
 # Usage
 
