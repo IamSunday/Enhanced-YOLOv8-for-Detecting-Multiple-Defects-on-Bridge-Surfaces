@@ -13,17 +13,17 @@ Enhanced-YOLOv8-for-Detecting-Multiple-Defects-on-Bridge-Surfaces/
 
 Please refer to https://docs.ultralytics.com/zh/models/yolov8/ for the detailed project structure
 
-#Installation
+# Installation
 
 git clone https://github.com/IamSunday/Enhanced-YOLOv8-for-Detecting-Multiple-Defects-on-Bridge-Surfaces.git cd Enhanced-YOLOv8-for-Detecting-Multiple-Defects-on-Bridge-Surfaces
 
-#Usage
+# Usage
 
-##Step 1: Prepare the Dataset
+## Step 1: Prepare the Dataset
 
 The bridge multi-defect data set for this experiment can be obtained from https://www.scidb.cn/en/s/fE3Uj2.
 
-##Step 2: Model Training
+## Step 2: Model Training
 
 python mytrain.py
 
